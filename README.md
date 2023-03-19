@@ -272,11 +272,11 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     </ul>
 </details>
 <details>
-    <summary></summary>
+    <summary>Ambrose Oyar</summary>
     <ul>
-    <li><a href="https://www.github.com/">Github</a></li>
-    <li><a href="https://www.twitter.com/">Twitter</a></li>
-    <li><a href="mailto:@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Ambyzhale">Github</a></li>
+    <li><a href="https://www.twitter.com/Ambrose Oyar">Twitter</a></li>
+    <li><a href="mailto:ambroseoyar@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
